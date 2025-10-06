@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Robin
-- 👀 Frontend Developer
-- 🌱 I’m currently learning Javascript, HTML & CSS
+- 👀 Frontend Developer from Munich
+- 💻 Languages: JavaScript, TypeScript, HTML, CSS
+- 🎨 Frontend: Angular, React
 - 👓 Strengths: creativ, eye for detail, high work ethic and a teamplayer
 - 📫 How to reach me: 
 <!---
